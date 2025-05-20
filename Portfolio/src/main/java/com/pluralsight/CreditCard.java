@@ -13,6 +13,6 @@ public class CreditCard implements Valuable {
 
     @Override
     public double getValue() {
-        return -balance; // It's debt
+        return -balance; //It's debt, decreases net worth
     }
 }
