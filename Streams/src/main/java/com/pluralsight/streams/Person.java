@@ -22,4 +22,3 @@ public class Person {
         return firstName + " " + lastName + " (Age: " + age + ")";
     }
 }
-}
